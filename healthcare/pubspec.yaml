@@ -1,0 +1,36 @@
+name: healthcare
+description: "A new Flutter project."
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  smooth_page_indicator: ^1.2.0+3
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/photos/1.png
+    - assets/photos/2.png
+    - assets/photos/3.png
+    - assets/photos/11.png
+    - assets/photos/22.png
+    - assets/photos/33.png
+    - assets/photos/111.png
+    - assets/photos/222.png
+    - assets/photos/333.png
+    - assets/photos/444.png
+
