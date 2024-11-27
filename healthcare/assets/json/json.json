@@ -1,0 +1,242 @@
+{
+    "banners": [
+    {
+      "title": "Summer Sale",
+      "description": "Enjoy up to 50% off on all summer products!",
+      "image": "assets/photos/1.png"
+    },
+    {
+      "title": "New Arrivals",
+      "description": "Check out the latest trends in our collection.",
+      "image": "assets/photos/2.png"
+    },
+    {
+      "title": "Holiday Discounts",
+      "description": "Get amazing discounts on holiday gifts and more!",
+      "image": "assets/photos/3.png"
+    },
+    {
+      "title": "Exclusive Offer",
+      "description": "Sign up now and get an exclusive 10% discount.",
+      "image": "assets/photos/1.png"
+    }
+  ],
+  "categories": [
+    {
+      "title": "Cardiology",
+      "icon": "Icons.favorite"
+    },
+    {
+      "title": "Dentistry",
+      "icon": "Icons.health_and_safety"
+    },
+    {
+      "title": "Orthopedics",
+      "icon": "Icons.medical_services"
+    },
+    {
+      "title": "Dermatology",
+      "icon": "Icons.emoji_people"
+    },
+    {
+      "title": "Pediatrics",
+      "icon": "Icons.vaccines"
+    },
+    {
+      "title": "Ophthalmology",
+      "icon": "Icons.emoji_people"
+    }
+  ],
+  "nearby_centers": [
+    {
+      "image": "assets/photos/11.png",
+      "title": "Medical Center 1",
+      "location_name": "Location 1",
+      "review_rate": 4.1,
+      "count_reviews": 102,
+      "distance_km": 1.1,
+      "distance_minutes": 6
+    },
+    {
+      "image": "assets/photos/22.png",
+      "title": "Medical Center 2",
+      "location_name": "Location 2",
+      "review_rate": 4.2,
+      "count_reviews": 104,
+      "distance_km": 1.1,
+      "distance_minutes": 7
+    },
+    {
+      "image": "assets/photos/33.png",
+      "title": "Medical Center 3",
+      "location_name": "Location 3",
+      "review_rate": 4.3,
+      "count_reviews": 106,
+      "distance_km": 1.1,
+      "distance_minutes": 8
+    },
+    {
+      "image": "assets/photos/11.png",
+      "title": "Medical Center 4",
+      "location_name": "Location 4",
+      "review_rate": 4.4,
+      "count_reviews": 108,
+      "distance_km": 1.2,
+      "distance_minutes": 9
+    },
+    {
+      "image": "assets/photos/22.png",
+      "title": "Medical Center 5",
+      "location_name": "Location 5",
+      "review_rate": 4.5,
+      "count_reviews": 110,
+      "distance_km": 1.2,
+      "distance_minutes": 10
+    },
+    {
+      "image": "assets/photos/33.png",
+      "title": "Medical Center 6",
+      "location_name": "Location 6",
+      "review_rate": 4.6,
+      "count_reviews": 112,
+      "distance_km": 1.3,
+      "distance_minutes": 11
+    },
+    {
+      "image": "assets/photos/11.png",
+      "title": "Medical Center 7",
+      "location_name": "Location 7",
+      "review_rate": 4.7,
+      "count_reviews": 114,
+      "distance_km": 1.4,
+      "distance_minutes": 12
+    },
+    {
+      "image": "assets/photos/22.png",
+      "title": "Medical Center 8",
+      "location_name": "Location 8",
+      "review_rate": 4.8,
+      "count_reviews": 116,
+      "distance_km": 1.4,
+      "distance_minutes": 13
+    },
+    {
+      "image": "assets/photos/33.png",
+      "title": "Medical Center 9",
+      "location_name": "Location 9",
+      "review_rate": 4.9,
+      "count_reviews": 118,
+      "distance_km": 1.4,
+      "distance_minutes": 14
+    },
+    {
+      "image": "assets/photos/11.png",
+      "title": "Medical Center 10",
+      "location_name": "Location 10",
+      "review_rate": 4.0,
+      "count_reviews": 120,
+      "distance_km": 1.5,
+      "distance_minutes": 15
+    },
+    {
+      "image": "assets/photos/22.png",
+      "title": "Medical Center 11",
+      "location_name": "Location 11",
+      "review_rate": 4.1,
+      "count_reviews": 122,
+      "distance_km": 1.6,
+      "distance_minutes": 16
+    }
+  ],
+  "doctors": [
+    {
+      "image": "assets/photos/111.png",
+      "full_name": "Dr. Full Name 1",
+      "type_of_doctor": "Cardiologist",
+      "location_of_center": "Health Center 1, USA",
+      "review_rate": 4.1,
+      "reviews_count": 53
+    },
+    {
+      "image": "assets/photos/222.png",
+      "full_name": "Dr. Full Name 2",
+      "type_of_doctor": "Pediatrician",
+      "location_of_center": "Health Center 2, USA",
+      "review_rate": 4.2,
+      "reviews_count": 56
+    },
+    {
+      "image": "assets/photos/333.png",
+      "full_name": "Dr. Full Name 3",
+      "type_of_doctor": "Dermatologist",
+      "location_of_center": "Health Center 3, USA",
+      "review_rate": 4.3,
+      "reviews_count": 59
+    },
+    {
+      "image": "assets/photos/111.png",
+      "full_name": "Dr. Full Name 4",
+      "type_of_doctor": "Orthopedic Surgeon",
+      "location_of_center": "Health Center 4, USA",
+      "review_rate": 4.4,
+      "reviews_count": 62
+    },
+    {
+      "image": "assets/photos/222.png",
+      "full_name": "Dr. Full Name 5",
+      "type_of_doctor": "Dentist",
+      "location_of_center": "Health Center 5, USA",
+      "review_rate": 4.5,
+      "reviews_count": 65
+    },
+    {
+      "image": "assets/photos/333.png",
+      "full_name": "Dr. Full Name 6",
+      "type_of_doctor": "Cardiologist",
+      "location_of_center": "Health Center 6, USA",
+      "review_rate": 4.6,
+      "reviews_count": 68
+    },
+    {
+      "image": "assets/photos/111.png",
+      "full_name": "Dr. Full Name 7",
+      "type_of_doctor": "Pediatrician",
+      "location_of_center": "Health Center 7, USA",
+      "review_rate": 4.7,
+      "reviews_count": 71
+    },
+    {
+      "image": "assets/photos/222.png",
+      "full_name": "Dr. Full Name 8",
+      "type_of_doctor": "Dermatologist",
+      "location_of_center": "Health Center 8, USA",
+      "review_rate": 4.8,
+      "reviews_count": 74
+    },
+    {
+      "image": "assets/photos/333.png",
+      "full_name": "Dr. Full Name 9",
+      "type_of_doctor": "Orthopedic Surgeon",
+      "location_of_center": "Health Center 9, USA",
+      "review_rate": 4.9,
+      "reviews_count": 77
+    },
+    {
+      "image": "assets/photos/111.png",
+      "full_name": "Dr. Full Name 10",
+      "type_of_doctor": "Dentist",
+      "location_of_center": "Health Center 10, USA",
+      "review_rate": 4.0,
+      "reviews_count": 80
+    },
+    {
+      "image": "assets/photos/222.png",
+      "full_name": "Dr. Full Name 11",
+      "type_of_doctor": "Cardiologist",
+      "location_of_center": "Health Center 11, USA",
+      "review_rate": 4.1,
+      "reviews_count": 83
+    }
+  ]
+  }
+  

@@ -8,8 +8,10 @@ environment:
 
 dependencies:
   flutter:
+  
     sdk: flutter
   smooth_page_indicator: ^1.2.0+3
+  flutter_bloc: ^8.1.4
 
   cupertino_icons: ^1.0.8
 
@@ -17,6 +19,11 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^4.0.0
+  build_runner: ^2.3.3
+  json_serializable: ^6.6.1
+
+dependency_overrides:
+  logging: 1.0.2
 
 flutter:
 
@@ -33,4 +40,7 @@ flutter:
     - assets/photos/222.png
     - assets/photos/333.png
     - assets/photos/444.png
+
+
+    - assets/json/json.json
 
